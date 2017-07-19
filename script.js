@@ -182,7 +182,7 @@ console.log(trailBlazer);
 // It should print: "Building 35000 blue Sport Trail Blazer"s."
 // Wrint your code below:
 
-trailBlazer.mainBuild(35000, "blue Sport Trail Blazer"s. ");
+trailBlazer.mainBuild(35000, "blue Sport Trail Blazers. ");
 
 
 
